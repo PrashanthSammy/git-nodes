@@ -1,1 +1,3 @@
 This is the first version of the git module notes
+
+Github is really useful to track your code and edit
